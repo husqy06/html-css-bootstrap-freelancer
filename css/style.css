@@ -1,3 +1,32 @@
-.header-bkg {
+.header-nav {
+    background-color: #2C3E50;
+    height: 70px;
+}
+
+.jumbotron {
+    background-color: #1ABC9C;
+    height: 450px;
+}
+
+.portfolio {
+    height: 650px;
+}
+
+.about {
+    height: 400px;
+    background-color: #1ABC9C;
+}
+
+.contact-me {
+    height: 520px;
+}
+
+.footer-top {
+    height: 185px;
+    background-color: #3A546D;
+}
+
+.copyright {
+    height: 80px;
     background-color: #2C3E50;
 }
