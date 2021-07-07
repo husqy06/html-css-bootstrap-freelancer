@@ -3,13 +3,20 @@
     height: 70px;
 }
 
-.jumbotron {
+.banner {
     background-color: #1ABC9C;
     height: 450px;
 }
 
 .portfolio {
     height: 650px;
+}
+.portfolio-title {
+    height: 150px;
+}
+.portfolio-card {
+    background-color: darksalmon;
+    height: 200px;
 }
 
 .about {
